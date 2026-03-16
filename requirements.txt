@@ -1,26 +1,10 @@
-# Binance
 python-binance==1.0.19
-
-# Async HTTP
 aiohttp==3.9.5
-aiohttp[speedups]
-
-# PostgreSQL async
 asyncpg==0.29.0
-
-# Veri
 pandas==2.2.2
 numpy==1.26.4
-
-# Teknik analiz (saf Python, C derlemesi yok)
 pandas-ta==0.3.14b0
-
-# Haber
 requests==2.31.0
 feedparser==6.0.11
-
-# Ortam değişkenleri
 python-dotenv==1.0.1
-
-# Loglama
 rich==13.7.1
